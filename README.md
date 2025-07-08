@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/yourBannerImage.png" alt="Banner Brayan Javier" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNuNjc2Y3Z3c2k1cTB0OGNtYzFhejNtdGUyMXR4Z3U5aHAweWVqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cCCWygFWkpChuiPlWi/giphy.gif" alt="Banner Brayan Javier" width="100%" />
 
 # 👋 ¡Hola! Soy Brayan Javier Martínez Osorio
 
