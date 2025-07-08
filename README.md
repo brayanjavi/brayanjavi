@@ -14,3 +14,8 @@
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/tuusuario)
 - [Twitter](https://twitter.com/tuusuario)
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
