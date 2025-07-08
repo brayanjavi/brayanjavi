@@ -46,7 +46,7 @@
 - 🎶 Música y producción musical
 - 🎮 Videojuegos retro
 - 📚 Aprender nuevas tecnologías
-- 🚴‍♂️ Ciclismo
+  
 
 ---
 
