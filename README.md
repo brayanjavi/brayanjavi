@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Brayan Javier
 
-<!--
-**brayanjavi/brayanjavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Ingeniero en Software
+- 🎵 DJ y Productor
+- 🚀 Apasionado por la tecnología y el desarrollo móvil
 
-Here are some ideas to get you started:
+## 🚩 Proyectos Destacados
+- [Calculadora React Native](https://github.com/brayanjavi/Calculadora---React-Native)
+- [Serpientes y Escaleras](https://github.com/brayanjavi/Serpientes-Escaleras---React-Native---TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas
+![brayanjavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanjavi&show_icons=true&theme=radical)
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [Twitter](https://twitter.com/tuusuario)
