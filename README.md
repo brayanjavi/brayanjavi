@@ -12,7 +12,7 @@
 ![brayanjavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanjavi&show_icons=true&theme=radical)
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/brayan-javier-martinez-osorio-0432b2b9)
+- [LinkedIn](https://www.linkedin.com/in/brayan-javier-martinez-osorio)
 - [Twitter](https://twitter.com/tuusuario)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff&style=flat)
