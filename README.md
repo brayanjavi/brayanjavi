@@ -8,9 +8,11 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Apasionado por el desarrollo de software y la tecnología.
-- 🎵 DJ y productor musical en mis tiempos libres.
-- 📱 Experiencia en desarrollo móvil con React Native y TypeScript.
+- Apasionado por el desarrollo de software y la tecnología.
+- DJ y productor musical en mis tiempos libres.
+- Experiencia en desarrollo móvil con React Native y TypeScript.
+- Experiencia en desarrollo Web con Framework´s con TypeScript y JavaScript
+  
 
 ---
 
